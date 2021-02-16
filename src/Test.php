@@ -1,7 +1,7 @@
 <?php
 
 
-namespace afshinizadi/test;
+namespace afshinizadi\test;
 
 class Test{
 
