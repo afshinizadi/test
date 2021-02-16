@@ -1,0 +1,17 @@
+{
+    "name": "afshin/test",
+    "description": "just a test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "afshinizadi",
+            "email": "afshine1989@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"afshin\\test\\": "src/"}
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
